@@ -57,25 +57,20 @@ An AI-powered, interactive Gradio-based tool to support smart urban sustainabili
 
 ## 📸 Screenshots
 
+- 🏠Dashboard
+![Chatbot Reply](Images/dashboard.jpeg)
+
 - 🤖 Chatbot Reply
 ![Chatbot Reply](Images/chat.jpeg)
--📊 KPI Forecasting
+
+- 📊 KPI Forecasting
 ![Forecast Chart](Images/kpi_forecasting.jpeg)
 
-### 🚨 Anomaly Detection
-![Anomaly Table](images/anomaly.png)
+- 🚨 Anomaly Detection
+![Anomaly Table](Images/anomaly_detection.jpeg)
 
-### 📄 Policy PDF Summary
-![PDF Summary](images/policy_summary.png)
-
-### 🌱 Eco Tips Output
-![Eco Tips](images/eco_tips.png)
-
-### 📝 Feedback Panel
-![Feedback](images/feedback.png)
-
-### 🖨️ PDF Report Generator Output
-![PDF Report](images/report_output.png)
+- 🌱 Eco Tips
+![Eco Tips](Images/eco_tips.jpeg)
 
 ---
 
