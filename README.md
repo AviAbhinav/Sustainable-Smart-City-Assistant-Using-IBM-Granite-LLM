@@ -22,7 +22,7 @@ An AI-powered, interactive Gradio-based tool to support smart urban sustainabili
 
 ## 🛠️ Tech Stack
 
-- **LLMs:** IBM Granite 2B, Mistral-7B-Instruct
+- **LLMs:** IBM Granite 2B
 - **Interface:** Gradio Tabbed UI (Colab-friendly)
 - **Data:** CSV (KPI), PDF (Policy), Text Inputs
 - **ML Algorithms:** Linear Regression for forecasting, Rule-based anomaly detection
