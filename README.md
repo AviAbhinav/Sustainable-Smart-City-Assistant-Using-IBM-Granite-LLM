@@ -78,9 +78,9 @@ An AI-powered, interactive Gradio-based tool to support smart urban sustainabili
 
 | Name                        | Email                                                      |
 | --------------------------- | ---------------------------------------------------------- |
-| Vakkalanka Bhanu Karthikeya | [22P31A0552@acet.ac.in](mailto:22P31A0552@acet.ac.in)      |
-| Vigneswara Reddy Sabbella   | [ysabbella@gmail.com](mailto\:ysabbella@gmail.com)         |
 | Abhinav Kumar               | [abhinavkr1003@gmail.com](mailto\:abhinavkr1003@gmail.com) |
+| Vigneswara Reddy Sabbella   | [ysabbella@gmail.com](mailto\:ysabbella@gmail.com)         |
+| Vakkalanka Bhanu Karthikeya | [22P31A0552@acet.ac.in](mailto:22P31A0552@acet.ac.in)      |
 | Absar Ahmad                 | [absar4395@gmail.com](mailto\:absar4395@gmail.com)         |
 
 - 🎓 **College:** Aditya College of Engineering and Technology (ID: 161)
