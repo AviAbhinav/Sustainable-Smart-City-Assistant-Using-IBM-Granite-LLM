@@ -74,17 +74,6 @@ An AI-powered, interactive Gradio-based tool to support smart urban sustainabili
 
 ---
 
-## 👨‍💻 Team – TEAM 175
-
-| Name                        | Email                                                      |
-| --------------------------- | ---------------------------------------------------------- |
-| Abhinav Kumar               | [abhinavkr1003@gmail.com](mailto\:abhinavkr1003@gmail.com) |
-
-- 🎓 **College:** Aditya College of Engineering and Technology (ID: 161)
-- 🛠️ **Track:** Generative AI with IBM Cloud
-
----
-
 ## 🌍 Future Enhancements
 
 - 🧠 Add vector database (e.g., FAISS) for semantic search
